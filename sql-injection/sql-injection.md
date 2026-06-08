@@ -465,4 +465,7 @@ Extract target data
 
 ⚠️ Disclaimer: This report is written for educational and training purposes in cybersecurity. All techniques presented were practiced in legal environments (PortSwigger Labs). Never use these techniques on production systems without explicit authorization.
 
+
+
 Report generated as part of PortSwigger Web Security Academy training — 2026.
+WRITTEN BY GERARD KIBZU 
